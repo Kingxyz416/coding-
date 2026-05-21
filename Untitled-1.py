@@ -4,3 +4,11 @@ s.add(20)
 s.add(20.0)
 s.add('20')
 print(s)
+print(len(s))
+d={
+    "name": 'king'
+}
+d.update({"huzaifa":'meme'})
+print(d)
+f={"meme",12,2343,1,34}
+print(f)
